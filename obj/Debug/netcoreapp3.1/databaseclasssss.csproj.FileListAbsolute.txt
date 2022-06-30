@@ -1,0 +1,14 @@
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.exe
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.deps.json
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.runtimeconfig.json
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.runtimeconfig.dev.json
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.dll
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\bin\Debug\netcoreapp3.1\databaseclasssss.pdb
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.csproj.AssemblyReference.cache
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.AssemblyInfoInputs.cache
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.AssemblyInfo.cs
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.csproj.CoreCompileInputs.cache
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.dll
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.pdb
+C:\Users\Barnabas Solomon\OneDrive\Documents\Csharp-Assignment3\obj\Debug\netcoreapp3.1\databaseclasssss.genruntimeconfig.cache

@@ -8,13 +8,13 @@ namespace databaseclasssss
         {
             Circle x = new Circle();
             x.radius = 2;
-            Console.WriteLine(x.calcArea());
-            Console.WriteLine(x.calcPerimeter());
+            Console.WriteLine("circle area: " + x.calcArea());
+            Console.WriteLine("circle perimeter: " + x.calcPerimeter());
             Console.WriteLine();
             Square s = new Square();
             s.sideLength = 2;
-            Console.WriteLine(s.calcArea());
-            Console.WriteLine(s.calcPerimeter());
+            Console.WriteLine("square area: " + s.calcArea());
+            Console.WriteLine("square area: " + s.calcPerimeter());
 
         }
     }
